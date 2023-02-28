@@ -1,4 +1,4 @@
-#Semantic Knowledge Graph
+# Semantic Knowledge Graph
 *A graph structure, build automatically from a corpus of data, for traversing and measuring relationships within a domain*
 
 The Semantic Knowledge Graph serves as a data scientist's toolkit, allowing you to discover and compare any entities modeled within a corpus of data from any domain. For example, if you indexed a corpus of job postings, you could figure out what the most related job titles are for the phrase "account manager", and subsequently what the top skills are for each of those job titles. You can also use the system to rank a list of entities or keywords based upon their statistical relationship with any other group of entities or terms, and you can traverse these relationships any number of levels deep.  The Semantic Knowledge Graph will allow you to slice and dice the universe of terms and entites represented within your corpus in order to discover as many of these insights as you have the time and curiosity to pursue.
@@ -22,7 +22,7 @@ Please cite the Semantic Knowledge Graph in your publications if it helps your r
       Year = {2016}
     }
 
-#Usage (examples from the job search domain):
+# Usage (examples from the job search domain):
 
 *Request:*
 ```
